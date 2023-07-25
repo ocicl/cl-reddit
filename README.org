@@ -1,0 +1,10 @@
+* cl-reddit
+
+Common lisp reddit api wrapper
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jperson/cl-reddit.git   |
+| commit  | c78d2a5  |
+| systems | cl-reddit |
+|---------+-------------------------------------------|
+
